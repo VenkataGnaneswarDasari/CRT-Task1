@@ -1,0 +1,16 @@
+#pic{
+    float: right;
+    width: 350px;
+    height: 400px;
+          
+}
+.sidebyside{
+    width:85%;
+    margin:12px;
+   padding-left: 40px;
+    padding-top:150px;
+    padding-bottom: 175px;
+}
+#b{
+  background-color: pink; 
+}
